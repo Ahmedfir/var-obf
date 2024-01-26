@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/main/
+/out/
+/src/test/dummy/
+/src/test/dummy/expected/
+/src/test/dummy/input/
