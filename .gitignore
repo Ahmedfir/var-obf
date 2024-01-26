@@ -6,3 +6,6 @@
 /src/test/dummy/
 /src/test/dummy/expected/
 /src/test/dummy/input/
+/src/test/
+/.idea/
+/gradle/
